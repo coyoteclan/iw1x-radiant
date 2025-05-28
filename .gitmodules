@@ -1,0 +1,12 @@
+[submodule "submodules/GSL"]
+	path = submodules/GSL
+	url = https://github.com/microsoft/GSL.git
+[submodule "submodules/minhook"]
+	path = submodules/minhook
+	url = https://github.com/TsudaKageyu/minhook.git
+[submodule "submodules/rapidjson"]
+	path = submodules/rapidjson
+	url = https://github.com/Tencent/rapidjson.git
+[submodule "submodules/discord-rpc"]
+	path = submodules/discord-rpc
+	url = https://github.com/coyoteclan/raph-discord-rpc.git

@@ -1,0 +1,5 @@
+build
+.cache
+.clang*
+compile_flags.txt
+*.code-workspace

@@ -1,0 +1,22 @@
+[binaries]
+c = 'cl.exe'
+cpp = 'cl.exe'
+ar = 'lib.exe'
+strip = 'strip.exe'
+exe_wrapper = 'wine'
+
+[host_machine]
+system = 'windows'
+cpu_family = 'x86'
+cpu = 'x86'
+endian = 'little'
+
+[target_machine]
+system = 'windows'
+cpu_family = 'x86'
+cpu = 'x86'
+endian = 'little'
+
+[properties]
+needs_exe_wrapper = true
+windres = '/usr/bin/i686-w64-mingw32-windres'
