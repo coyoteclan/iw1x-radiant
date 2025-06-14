@@ -8,6 +8,6 @@ This is a mod/extension for CoDRadiant, based on [iw1x-client](https://github.co
 - Discord Rich Presence
 
 ## Installation
-- Download the release zip file.
+- Download the [release](https://github.com/coyoteclan/iw1x-radiant/releases/tag/0.1) zip file.
 - Unzip in `Tools/bin` folder.
 - Run iw1x-radiant.exe
