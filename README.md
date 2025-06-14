@@ -9,5 +9,6 @@ This is a mod/extension for CoDRadiant, based on [iw1x-client](https://github.co
 
 ## Installation
 - Download the [release](https://github.com/coyoteclan/iw1x-radiant/releases/tag/0.1) zip file.
+  <button href="https://github.com/coyoteclan/iw1x-radiant/releases/tag/0.1">Download</button>
 - Unzip in `Tools/bin` folder.
 - Run iw1x-radiant.exe
